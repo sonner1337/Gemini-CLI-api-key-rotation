@@ -1,0 +1,9 @@
+api_keys.txt
+key_index.txt
+cooldowns/
+*.log
+.DS_Store
+.vscode/
+node_modules/
+dist/
+.env
